@@ -1,0 +1,5 @@
+__pycache__/
+*.py[cod]
+reminders.db
+.venv/
+venv/
